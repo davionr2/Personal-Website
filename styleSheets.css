@@ -1,0 +1,25 @@
+
+	a:hover {
+		font-size:25pt;
+    color: navy;
+    text-decoration: underline;
+}
+	a:visited {
+		color: white;
+	}
+		h1, h2, h3, h4, h5, h6 {
+			color:#00059A;
+			font-family: "Corbel", Times, serif;
+		}
+		
+	body {
+		background-color:#696969;
+	}
+	p {
+		color:#FFFF00;
+	}
+	nav {
+		text-align: center;
+		margin-left:auto;
+		margin-right:auto;
+	}
